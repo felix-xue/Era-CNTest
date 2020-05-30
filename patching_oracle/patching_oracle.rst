@@ -1,10 +1,11 @@
-.. _patching_oracle:
+.. _使用Era为oracle更新补丁:
 
 ------------------------
-Patching Oracle with Era
+使用Era为oracle更新补丁
 ------------------------
 
-Maintaining consistent patch levels across database servers in a traditional environment can be a very difficult process. Era makes this simple by providing a means of database engine patching through versioned software profiles. Groups of database servers can be patched or rolled back through Era using the web interface, or via CLI or API.
+    在传统环境中，跨数据库服务器维护补丁版本的一致性是一个非常困难的挑战。Era 通过提供一种带版本控制的软件配置文件，可以非常方便的实现数据库引擎的补丁升级操作。一组数据库可以通过Era同时更新补丁或进行回滚，并支持通过网页，CLI或API的方式进行操作。
+     
 
 Each quarter, Oracle releases a grouping of patches referred to as a PSU. **In this lab you will walk through the deployment and patching of both Oracle and Grid software for an Oracle 19c database using Era.**
 
