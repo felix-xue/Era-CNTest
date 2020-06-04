@@ -88,7 +88,7 @@
 
    .. figure:: images/12.png
 
-#. 点击 **Yes*
+#. 点击 **Yes**
 
 #. 完成后, 点击 **Actions > Snapshot**.
 
@@ -219,5 +219,3 @@ Clone Your Database Server & Database
        from sys.all_tables
        where table_name like 'TEST%';
 
-Takeaways
-+++++++++
