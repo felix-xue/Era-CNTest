@@ -102,7 +102,7 @@
 
 #. 从下拉菜单中选 **Operations** 中监控执行进度，此步骤通常需要2-5分钟.
 
-Clone Your Database Server & Database
+克隆数据库
 +++++++++++++++++++++++++++++++++++++
 
 #. 在 **Era** 中, 从下拉菜单中选择 **Time Machines** 然后选择 *Initials*\ -proddb_TM
