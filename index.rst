@@ -225,7 +225,7 @@ RTP Based Clusters Login to: https://xld-useast1.nutanix.com
 **Nutanix Employees** - Use your **NUTANIXDC** credentials
 **Non-Employees** - Use **Lab Access User** Credentials
 
-Nutanix职员 Pulse Secure VPN
+Pulse Secure VPN（Nutanix雇员专用）
 ..........................
 
 Download the client:
