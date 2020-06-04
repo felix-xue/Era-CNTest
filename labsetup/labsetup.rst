@@ -6,8 +6,6 @@ Oracle Lab 设置
 
 欢迎来到数据库训练营，该训练营旨在为您提供初步的经验，以了解Nutanix为什么是数据库工作负载的最佳理想平台。
 
-Historically, it has been a challenge to virtualize Oracle because of the high cost of traditional virtualization stacks and the impact that a SAN-based architecture can have on performance. Businesses and their IT departments have constantly fought to balance cost, operational simplicity, and consistent predictable performance.
-
 从历史上看，对Oracle进行虚拟化一直是一个挑战，因为在传统虚拟化堆栈上运行Oracle数据库的成本很高，而且基于SAN存储的三层体系结构也可能会对性能产生影响。企业及其IT部门一直在努力平衡成本，操作简便性和一致的可预测性能之间的关系。
 
 Nutanix企业云消除了许多这些挑战，并使对关键业务应用程序（例如Oracle）实现虚拟化更加容易。Acropolis分布式存储结构（DSF）是一种软件定义的解决方案，可提供企业级SAN存储能期望实现的所有功能，却无需担忧SAN的物理限制和性能瓶颈。DSF功能对于Oracle数据库场景有主要如下收益:
